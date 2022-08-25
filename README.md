@@ -75,7 +75,7 @@ You can play with a live demo of this code that is deployed [here on Netlify](ht
 
 ## Tech Used
 
-Tech choices are based on what I like to use for side projects, usually because they are fast or giv a good developer
+Tech choices are based on what I like to use for side projects, usually because they are fast or gives a good developer
 experience.
 
 - [React](https://reactjs.org/)
