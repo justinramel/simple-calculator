@@ -18,8 +18,9 @@ Due to the time boxed nature of this exercise, there are some shortcomings compa
 I seperated the calculator logic out into its own reducer so it can easily be tested without React getting in the way.
 This has resulted in a nice separation between the logic and the view. 
 
-The core of the logic can be found in the [calculator reducer](/src/components/calculatorReducer.ts).  
-The core of the view can be found in the [Calculator component](/src/components/Calculator.tsx).  
+* Core of the logic can be found in the [calculator reducer](src/components/calculatorReducer.ts).  
+* Main view can be found in the [Calculator component](src/components/Calculator.tsx).
+* The index.scss is generated, the custom styling can be found in the [Calculator.scss](src/components/Calculator.scss).
 
 ## Install
 To install and run this project you'll first need to install [Node 16.17. LTS](https://nodejs.org/en/) and the latest
